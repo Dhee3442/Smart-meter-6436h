@@ -1,1 +1,4 @@
-# Smart-meter-6436h
+sudo apt update
+sudo apt install -y python3-pip python3-full
+pip3 install minimalmodbus --break-system-packages
+sudo apt install python3-paho-mqtt
